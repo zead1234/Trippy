@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 31%;
+    margin: 5px 10px;
+    height: 30%;
+    transition: 0.5s;
+}
+.card:hover{
+    box-shadow: 3px 3px 10px grey;
+}
+.card-img-top{
+    width: 100%;
+    height: 300px;
+    transition: 0.5s;
+}
+.card-img-top:hover{
+    transform: scale(0.9);
+}
+
+@media (max-width: 992px) {
+    .card{
+        width: 43%;
+    }
+}
+@media (max-width: 767px) {
+    .card{
+        width: 100%;
+    }
+}
+
