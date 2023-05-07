@@ -27,3 +27,11 @@ img{
     height: 50px;
     font-size: 22px;
 }
+@media (max-width:992px) {
+    .text-section{
+        font-size: small;
+    }
+    .text-section button{
+        width: 100%;
+    }
+}
