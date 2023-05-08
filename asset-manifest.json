@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Trippy/static/css/main.da6559ae.css",
-    "main.js": "/Trippy/static/js/main.d22099c6.js",
+    "main.css": "/Trippy/static/css/main.9cb001db.css",
+    "main.js": "/Trippy/static/js/main.ddf77fe1.js",
     "static/js/787.2489de80.chunk.js": "/Trippy/static/js/787.2489de80.chunk.js",
     "static/media/3.jpg": "/Trippy/static/media/3.84d5235cc693e15661d6.jpg",
     "static/media/2.jpg": "/Trippy/static/media/2.bbb41348bb839b9124d8.jpg",
@@ -12,12 +12,12 @@
     "static/media/6.jpg": "/Trippy/static/media/6.c405c8228d51cdef5d0f.jpg",
     "static/media/night.jpg": "/Trippy/static/media/night.ac6d287d5d0014553b87.jpg",
     "index.html": "/Trippy/index.html",
-    "main.da6559ae.css.map": "/Trippy/static/css/main.da6559ae.css.map",
-    "main.d22099c6.js.map": "/Trippy/static/js/main.d22099c6.js.map",
+    "main.9cb001db.css.map": "/Trippy/static/css/main.9cb001db.css.map",
+    "main.ddf77fe1.js.map": "/Trippy/static/js/main.ddf77fe1.js.map",
     "787.2489de80.chunk.js.map": "/Trippy/static/js/787.2489de80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da6559ae.css",
-    "static/js/main.d22099c6.js"
+    "static/css/main.9cb001db.css",
+    "static/js/main.ddf77fe1.js"
   ]
 }
