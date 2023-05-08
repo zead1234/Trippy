@@ -1,4 +1,3 @@
-import destimg1 from "../../assets/5.jpg";
 import "./Destination.css";
 function Destination(porops) {
   return (

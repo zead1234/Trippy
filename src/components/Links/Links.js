@@ -1,10 +1,14 @@
 import "./Links.css"
+import { Link } from "react-router-dom";
 function Links (props,{key}){
 return(
-<li className="li" key={key}>
+<>    
+<Link className="li" to={props.name}><i className={props.cname}></i> &nbsp; {props.name}</Link>
+{/* <li  key={key}>
 <a href="#"><i className={props.cname}></i> &nbsp; 
 {props.name}</a>
-</li>
+</li> */}
+</>
 
 )
 

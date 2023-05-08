@@ -2,6 +2,8 @@ import React, { useState } from "react"
 import Links from "../Links/Links"
 import "./Nav.css"
 import info from "../Links/info"
+import { Link } from "react-router-dom";
+
 
 function Nav(){
 
@@ -23,7 +25,8 @@ return (
           {info.map((item,index)=>{return(<Links name={item.content} cname={item.cname} key={index}/>)
             
           })}
-                  <button className="btn btn-light">Sign-up</button>
+                 
+                  <Link className="btn btn-light" to="Signup">Signup</Link>
 
         </ul>
 </nav>

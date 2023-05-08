@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Contact-hero button{
+    display: none;
+}
+.contact{
+border-radius: 10px;
+box-shadow: 2px 2px 10px grey;
+}
+.form-section .password{
+    display: none;
+}

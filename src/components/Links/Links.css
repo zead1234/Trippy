@@ -11,10 +11,9 @@
    padding:6px;
    transition: 0.5s;
 }
-.li a{
+.li{
     text-decoration: none;
     color: black;
-    pointer-events: none;
     
 }
 
