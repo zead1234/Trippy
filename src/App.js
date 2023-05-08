@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Nav from "./components/Nav/Nav";
 import Foo from "./components/Foo/Foo";
 import { Outlet } from "react-router";
-import Home from "./components/Home/Home";
+import { Navigate } from "react-router";
 
 
 function App() {
@@ -11,8 +11,8 @@ function App() {
   return (
     <div className="App">
       <Nav />
+      <Navigate to="/Trippy/Home"/>
       <Outlet/>
-      <Home/>
       <Foo />
     </div>
   );
