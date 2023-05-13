@@ -15,7 +15,7 @@ function Signup(){
   <div className="container contact my-4"> 
         <div className="row">
             
-          <h1 className="col-12 text-center my-3">Send a message to us!</h1>
+          <h1 className="col-12 text-center my-3">Register Now</h1>
           <div className="Signup-section col-12 ">
     
           <Form value="Register"/>
